@@ -1,2 +1,3 @@
 AB=100
-print("Hey Guys")
+print("Hey Guys"
+        22)
